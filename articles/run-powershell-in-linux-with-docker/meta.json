@@ -1,0 +1,15 @@
+{
+  "author": "Allen Butler",
+  "created": 1559998630,
+  "authorimage": "/images/authors/abutler.jpg",
+  "url": "run-powershell-in-linux-with-docker",
+  "image": "wallpaper.jpg",
+  "imagecredit": "Hussain Faruhaan",
+  "title": "Running Powershell in Linux with Docker",
+  "category": "Tricks",
+  "tags": [
+    "docker",
+    "linux",
+    "powershell"
+  ]
+}
